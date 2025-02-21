@@ -31,10 +31,6 @@
         background-image: url(../imagens/back-tv.jpg);
     }
 
-    main {
-        /* width: 700px; */
-    }
-
     #phone { display: none; }
     #tv { display: block; }
     #tablet { display: none; }
